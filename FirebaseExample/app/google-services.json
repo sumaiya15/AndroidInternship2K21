@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232951634638",
+    "project_id": "fireex-66889",
+    "storage_bucket": "fireex-66889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232951634638:android:7158a9b3b495a023e3ce9f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232951634638-2n2gi1i0mma30ig76b2dab77navscm0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseexample",
+            "certificate_hash": "940e6deffa239ff9a2fedea70c92a14763928a28"
+          }
+        },
+        {
+          "client_id": "232951634638-4a5ss13of19vdhp9mjivcv1k2qnqc22d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-FOUNT156BF4fJrl5n03anH1gzlMRcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232951634638-4a5ss13of19vdhp9mjivcv1k2qnqc22d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

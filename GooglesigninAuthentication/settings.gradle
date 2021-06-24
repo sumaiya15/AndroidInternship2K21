@@ -1,0 +1,2 @@
+rootProject.name = "Google sign in Authentication"
+include ':app'
